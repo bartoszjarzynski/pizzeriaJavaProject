@@ -87,7 +87,7 @@ public class App {
     public static void main(String[] args) throws Exception {
         Scanner scanner = new Scanner(System.in);
 
-        System.out.println("Witamy w pizzerii La Via e Bella!");
+        System.out.println("Witamy w pizzerii La Vita e Bella!");
         System.out.println("Wybierz, co chciałbyś zrobić:");
 
         System.out.println("1. Zamów pizzę");
