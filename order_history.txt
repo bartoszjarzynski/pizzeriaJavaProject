@@ -1,0 +1,32 @@
+{
+  "order_id": 1742646444545,
+  "customer": {
+    "name": "Bartosz",
+    "surname": "Jarzynski",
+    "email": "bjarzynski@gmail.com",
+    "street": "Sportowa",
+    "house_number": "13",
+    "city": "Chorzow",
+    "phone": "511010671"
+  },
+  "pizza": {
+    "number": 2,
+    "name": "Capricciosa"
+  }
+}
+{
+  "order_id": 1742646933605,
+  "customer": {
+    "name": "Bartosz",
+    "surname": "Jarzynski",
+    "email": "bjarzynski@outlook.com",
+    "street": "Sportowa",
+    "house_number": "13",
+    "city": "Chorzow",
+    "phone": "511010671"
+  },
+  "pizza": {
+    "number": 5,
+    "name": "Quattro Stagioni"
+  }
+}
